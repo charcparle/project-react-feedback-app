@@ -14,6 +14,11 @@
       "id": 3,
       "rating": 7,
       "text": "Item 3 from the backend json-server"
+    },
+    {
+      "text": "listening to the radio",
+      "rating": 5,
+      "id": 4
     }
   ]
 }
