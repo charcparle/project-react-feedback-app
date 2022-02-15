@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 7,
+      "text": "First text that forms a comment from the backend json-server"
+    },
+    {
+      "id": 2,
+      "rating": 6,
+      "text": "Second text that forms a comment from the backend json-server"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "Item 3 from the backend json-server"
+    }
+  ]
+}
